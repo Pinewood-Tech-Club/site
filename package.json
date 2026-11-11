@@ -18,16 +18,16 @@
     "astro": "7.3.5"
   },
   "devDependencies": {
-    "wrangler": "4.147.0"
+    "wrangler": "4.154.0"
   },
   "overrides": {
     "vite": "^8",
-    "@cloudflare/vite-plugin": "1.62.5"
+    "@cloudflare/vite-plugin": "1.66.0"
   },
   "pnpm": {
     "overrides": {
       "vite": "^8",
-      "@cloudflare/vite-plugin": "1.62.5"
+      "@cloudflare/vite-plugin": "1.66.0"
     }
   }
 }
